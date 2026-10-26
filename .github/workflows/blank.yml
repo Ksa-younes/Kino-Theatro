@@ -18,7 +18,7 @@ jobs:
 
       - name: Fetch Remote Files
         run: |
-          wget -m -p -k -nH --cut-dirs=0 https://09823434988765.ai.studio
+          wget -m -p -k -nH --cut-dirs=0 https://k32432398t.ai.studio
           rm -f robots.txt
 
       - name: Purge Tracking Elements
